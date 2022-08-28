@@ -16,6 +16,7 @@ function App() {
       <div className = "container">
         <img src ={ imageTwo} width = "200px" alt = "CheckedList"/>
       </div>
+      <h6 className="info">Images from https://www.freepik.com/author/flaticon</h6>
     </div>
   );
 }
