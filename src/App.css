@@ -1,6 +1,5 @@
 body{
   background-color: rgb(142, 142, 244);
-  
 }
 
 .App {
@@ -18,7 +17,6 @@ body{
 
 ul,li{
   display: flex;
-  
   justify-content: center;
   list-style-type: none;
   padding: 10px;
@@ -76,7 +74,13 @@ input{
   height: 20px;
   margin-right: 10px;
 }
+
 img{
   border-radius: 40%;
   margin: 10px;
+}
+
+.info{
+  font-size: 8px;
+  font-family: 'Montserrat', sans-serif;
 }
