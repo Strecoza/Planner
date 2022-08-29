@@ -13,6 +13,9 @@ body{
 
 .crossed{
   text-decoration: line-through 2px black;
+  -webkit-text-decoration-line:line-through;
+  -webkit-text-decoration-color:black;
+  -webkit-text-decoration-thickness:2px;
 }
 
 ul,li{
